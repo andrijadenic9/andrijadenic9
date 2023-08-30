@@ -64,8 +64,6 @@ I'm enthusiastic about connecting with like-minded individuals, sharing ideas, a
 <a href="https://linkedin.com/in/andrija-denic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrija-denic" height="30" width="40" /></a>
 </p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrijadenic9&" alt="andrijadenic9" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrijadenic9&show_icons=true&locale=en&layout=compact" alt="andrijadenic9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrijadenic9&" alt="andrijadenic9" /></p>
