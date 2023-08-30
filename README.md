@@ -11,6 +11,10 @@ I believe in continuous learning and growth. Keeping up with the latest trends a
 ### 🚀 Let's Connect
 I'm enthusiastic about connecting with like-minded individuals, sharing ideas, and contributing to the tech community. Whether you're a fellow developer, an aspiring coder, or someone interested in the web world, feel free to reach out. Let's make the web a better place together!
 
+I'm actively seeking job opportunities in web development. If you're looking for a dedicated developer to join your team, I'd love to connect and discuss how I can contribute!
+
+Looking forward to learning, collaborating, and creating amazing things together!
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrijadenic9&label=Profile%20views&color=0e75b6&style=flat" alt="andrijadenic9" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
