@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andrija Denic</h1>
 <h3 align="center">I'm a passionate web developer with a knack for crafting interactive and user-centric digital experiences. My journey in the world of code has led me to explore various technologies and tools, allowing me to build dynamic and engaging web applications.</h3>
 
+### 🔭 What I Do
+I specialize in creating responsive and intuitive web applications that not only meet user needs but also exceed their expectations. My expertise spans across front-end and back-end development, and I enjoy diving into new challenges that come with each project.
+
+### 🌱 My Approach
+I believe in continuous learning and growth. Keeping up with the latest trends and best practices is essential in delivering cutting-edge solutions. I'm always eager to tackle complex problems, improve my skills, and collaborate with fellow developers.
+
+### 🚀 Let's Connect
+I'm enthusiastic about connecting with like-minded individuals, sharing ideas, and contributing to the tech community. Whether you're a fellow developer, an aspiring coder, or someone interested in the web world, feel free to reach out. Let's make the web a better place together!
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrijadenic9&label=Profile%20views&color=0e75b6&style=flat" alt="andrijadenic9" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
