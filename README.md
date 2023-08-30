@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Andrija Denic</h1>
-<h3 align="center">I'm a passionate web developer with a knack for crafting interactive and user-centric digital experiences. My journey in the world of code has led me to explore various technologies and tools, allowing me to build dynamic and engaging web applications.</h3>
+## Hello, I'm Andrija Denic 👋
+
+I'm a passionate web developer with a knack for crafting interactive and user-centric digital experiences. My journey in the world of code has led me to explore various technologies and tools, allowing me to build dynamic and engaging web applications.
 
 ### 🔭 What I Do
 I specialize in creating responsive and intuitive web applications that not only meet user needs but also exceed their expectations. My expertise spans across front-end and back-end development, and I enjoy diving into new challenges that come with each project.
